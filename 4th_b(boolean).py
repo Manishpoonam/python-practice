@@ -50,5 +50,6 @@ if myFunction():
 else:
   print("NO!")
 
+#isinstance()
 x = 200
 print(isinstance(x, int))
